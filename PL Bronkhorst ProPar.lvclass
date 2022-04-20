@@ -28,11 +28,11 @@
 		<Item Name="Command.vi" Type="VI" URL="../Private/Command.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;]!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!!V!"1!(4H6N:8*J9Q!;1%!!!@````]!"1VS:8.Q&lt;WZT:3"E982B!$2!=!!?!!!?(&amp;"-)%*S&lt;WZL;'^S=X1A5(*P5'&amp;S,GRW9WRB=X-!!!J1=G^198)A&lt;X6U!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!"J!1!!"`````Q!&amp;$'.P&lt;7VB&lt;G1A:'&amp;U91!!#U!&amp;!!2O&lt;W2F!!!S1(!!(A!!(BR14#"#=G^O;WBP=H.U)&amp;"S&lt;V"B=CZM&gt;G.M98.T!!!*5(*P5'&amp;S)'FO!'%!]!!-!!-!"!!'!!=!"!!%!!1!"!!)!!E!#A!,!Q!!?!!!$1A!!!!!!!!*!!!!$1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!"%A!!!")!!!!3!!!.!!!!$!!!!!!!!!!!!!!"!!Q!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-			<Property Name="NI.ClassItem.Flags" Type="Int">128</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">16777344</Property>
 			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 			<Property Name="NI.ClassItem.MethodScope" Type="UInt">2</Property>
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-			<Property Name="NI.ClassItem.State" Type="Int">1342714386</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1342714384</Property>
 		</Item>
 		<Item Name="Reinitialize.vi" Type="VI" URL="../Private/Reinitialize.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%Q!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$2!=!!?!!!?(&amp;"-)%*S&lt;WZL;'^S=X1A5(*P5'&amp;S,GRW9WRB=X-!!!J1=G^198)A&lt;X6U!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!$*!=!!?!!!?(&amp;"-)%*S&lt;WZL;'^S=X1A5(*P5'&amp;S,GRW9WRB=X-!!!F1=G^198)A;7Y!91$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"!!%!!=$!!"Y!!!.#!!!!!!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!!!!!!!I!!!U!!!!-!!!!!!!!!!!!!!%!#!!!!!!</Property>
@@ -45,7 +45,6 @@
 		</Item>
 	</Item>
 	<Item Name="Public" Type="Folder">
-		<Item Name="Action-Status" Type="Folder"/>
 		<Item Name="Configure" Type="Folder">
 			<Item Name="Low Level" Type="Folder">
 				<Item Name="Configure Character Parameter.vi" Type="VI" URL="../Public/Configure/Low Level/Configure Character Parameter.vi">
