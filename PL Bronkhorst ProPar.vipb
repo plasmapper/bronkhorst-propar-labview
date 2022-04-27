@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-04 17:51:50" Modified_Date="2022-04-22 12:35:03" Creator="Researcher" Comments="" ID="340ecad41b9e6c5f8fb411ea32d384e7">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-04 17:51:50" Modified_Date="2022-04-27 19:53:01" Creator="Researcher" Comments="" ID="2d047f89b071eb725ec374b1defeda79">
   <Library_General_Settings>
     <Package_File_Name>plasmapper_lib_PL_Bronkhorst_ProPar</Package_File_Name>
-    <Library_Version>1.0.0.4</Library_Version>
+    <Library_Version>1.0.0.5</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\build</Library_Output_Folder>
@@ -289,7 +289,7 @@ Features
         <Path>Public\Utility</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>660CB901918489DBE93FFAD44AD577E4</GUID>
+      <GUID>CDF58828B8932682747D1BC02EDC65F4</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -632,7 +632,7 @@ Features
         <Path>Public\Configure\Low Level</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>90884C82229A0E589D559730A9A1578A</GUID>
+      <GUID>E13C4884694E0C6087B3E136E46297BE</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -779,7 +779,7 @@ Features
         <Path>Public\Data\Low Level</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>2347BF3B4C2657B7EAB989FA8D7609CB</GUID>
+      <GUID>7B2232C2306B416F3046B6243AE70968</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -926,7 +926,7 @@ Features
         <Path>Public\Utility\Configure User Tag.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>0272C1D3D67C262F6FC270113F4F912F</GUID>
+      <GUID>048774EF2B1927200426AB61FC364F4E</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -1045,7 +1045,7 @@ Features
         <Path>Public\Configure\Low Level\Configure Secured Parameter Protection.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>6F43BC6150FD90114B0F0E4CB1655820</GUID>
+      <GUID>3444E1B72D6AA653CD711B4D1426B5AC</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -1150,7 +1150,7 @@ Features
         <Path>Public\Data\Low Level\Read String Parameter.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A0A47B614D1047B493690D0F15E19FAF</GUID>
+      <GUID>D08ED676A000B7849B3FDA65DB8B115A</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
