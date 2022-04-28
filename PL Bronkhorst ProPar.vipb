@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-04 17:51:50" Modified_Date="2022-04-27 19:53:01" Creator="Researcher" Comments="" ID="2d047f89b071eb725ec374b1defeda79">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-04 17:51:50" Modified_Date="2022-04-28 17:18:13" Creator="Researcher" Comments="" ID="d5933705b88a577400ec28befda1988c">
   <Library_General_Settings>
     <Package_File_Name>plasmapper_lib_PL_Bronkhorst_ProPar</Package_File_Name>
-    <Library_Version>1.0.0.5</Library_Version>
+    <Library_Version>1.0.0.6</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\build</Library_Output_Folder>
@@ -289,7 +289,7 @@ Features
         <Path>Public\Utility</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>CDF58828B8932682747D1BC02EDC65F4</GUID>
+      <GUID>862C30D3431B6550E5F4A8E53A50DC57</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -467,34 +467,6 @@ Features
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Configure Valve Position.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>2</Row>
-          <Column>3</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>Public\Configure\Configure Valve Position.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Read Valve Position.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>3</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>Public\Configure\Read Valve Position.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>Configure Valve Opening Offset.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -632,7 +604,35 @@ Features
         <Path>Public\Configure\Low Level</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E13C4884694E0C6087B3E136E46297BE</GUID>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>Read Valve Output.vi</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>1</Row>
+          <Column>3</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>Public\Configure\Read Valve Output.vi</Path>
+        <VI_Title/>
+      </Items_Data>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>Read Valve Output.vi</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>2</Row>
+          <Column>3</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>Public\Configure\Read Valve Output.vi</Path>
+        <VI_Title/>
+      </Items_Data>
+      <GUID>E14EFBD2F6421546BEBC472E9611E9BC</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -779,7 +779,7 @@ Features
         <Path>Public\Data\Low Level</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>7B2232C2306B416F3046B6243AE70968</GUID>
+      <GUID>D80275CA32AA9E1288328C085A97FFE3</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -926,7 +926,7 @@ Features
         <Path>Public\Utility\Configure User Tag.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>048774EF2B1927200426AB61FC364F4E</GUID>
+      <GUID>3D55C6E73F99C3E69A09CE092AC5418F</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -1045,7 +1045,7 @@ Features
         <Path>Public\Configure\Low Level\Configure Secured Parameter Protection.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>3444E1B72D6AA653CD711B4D1426B5AC</GUID>
+      <GUID>F6A132351D44DBAF4128E32F211CA015</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -1150,7 +1150,7 @@ Features
         <Path>Public\Data\Low Level\Read String Parameter.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D08ED676A000B7849B3FDA65DB8B115A</GUID>
+      <GUID>AF5CCAE29BE2C9879F13432DD6A2E3CB</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
