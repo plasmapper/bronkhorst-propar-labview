@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-04 17:51:50" Modified_Date="2022-04-28 17:18:13" Creator="Researcher" Comments="" ID="d5933705b88a577400ec28befda1988c">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-04-04 17:51:50" Modified_Date="2022-04-28 17:50:44" Creator="Researcher" Comments="" ID="f80089e38396acb15163146519954d59">
   <Library_General_Settings>
     <Package_File_Name>plasmapper_lib_PL_Bronkhorst_ProPar</Package_File_Name>
     <Library_Version>1.0.0.6</Library_Version>
@@ -31,9 +31,6 @@
       <Description>LabVIEW instrument driver for Bronkhorst mass flow and pressure instruments with ProPar protocol.
 
 Tested on Bronkhorst EL-FLOW.
-
-Requirements
-LabVIEW 2015 and higher.
 
 Features
 1. Low-level VIs to read/configure any device parameter.
@@ -289,7 +286,7 @@ Features
         <Path>Public\Utility</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>862C30D3431B6550E5F4A8E53A50DC57</GUID>
+      <GUID>61A571D71ADADADB7F74122E3EB9EF12</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -632,7 +629,7 @@ Features
         <Path>Public\Configure\Read Valve Output.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E14EFBD2F6421546BEBC472E9611E9BC</GUID>
+      <GUID>B670317F57C145F4AD5C9794A104C965</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -779,7 +776,7 @@ Features
         <Path>Public\Data\Low Level</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D80275CA32AA9E1288328C085A97FFE3</GUID>
+      <GUID>D80C3B9F16A9F8E6844451E873A6D324</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -926,7 +923,7 @@ Features
         <Path>Public\Utility\Configure User Tag.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>3D55C6E73F99C3E69A09CE092AC5418F</GUID>
+      <GUID>CFCABAB4525E2DFB8734F187739C8419</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -1045,7 +1042,7 @@ Features
         <Path>Public\Configure\Low Level\Configure Secured Parameter Protection.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F6A132351D44DBAF4128E32F211CA015</GUID>
+      <GUID>2C2AAB962797C5C56A14E4EADAD25BD2</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -1150,7 +1147,7 @@ Features
         <Path>Public\Data\Low Level\Read String Parameter.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>AF5CCAE29BE2C9879F13432DD6A2E3CB</GUID>
+      <GUID>A54BC7CA08C339C5C4641000969D70DA</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
