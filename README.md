@@ -6,6 +6,9 @@ Tested on Bronkhorst EL-FLOW.
 ## Requirements
 LabVIEW 2015 and higher.
 
+## Installation
+[VIPM package](https://www.vipm.io/package/plasmapper_lib_pl_bronkhorst_propar/)
+
 ## Features
 1. Low-level VIs to read/configure any device parameter.
 2. High-level VIs to read/configure most used (in my opinion :)) parameters.
