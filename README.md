@@ -1,6 +1,4 @@
-# Bronkhorst ProPar Library for LabVIEW.
-LabVIEW instrument driver for Bronkhorst mass flow and pressure instruments with ProPar protocol.
-
+# LabVIEW Instrument Driver for Bronkhorst Mass Flow and Pressure Instruments with ProPar Protocol
 Tested on Bronkhorst EL-FLOW.
 
 ## Requirements
